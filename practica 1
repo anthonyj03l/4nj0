@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+ <lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prueba</title> <!--aqui pones el titulo que va arriba en la ventana de gloogle -->
+</head>
+<h1 style="color:red;text-align:center; font-size: 80px; ">Scrip</h1> <!--TITULO CON LETRA DE COLOR AL CENTRO y con el ; puedes añadir opciones extras como tamaño -->
+
+<h1>PCMasterStore</h1>  <!-- aqui pones un  titulo de negrita "h1" -->
+
+<hr>                   <!-- con este  "hr" es para dejar una linea ____________ abajo -->
+<h2>Hola</h2> 
+<hr>
+<h3>Hola</h3>
+<hr>
+<h4>Hola</h4>
+<hr>
+<h5>hola</h5>
+<hr>
+<h6></h6>Esta pagina esta diseñada para la venta de components de una PC . <!--Esta es una mala forma de hacer espacio para abajo-->
+<hr>
+<h6>HOLA</h6> <!-- hace letra negrita pero pequeño "h6" -->
+<hr>
+<br> <!--este "br" sirve para dejar espacio hacia abajo -->
+<br>
+
+<h1>COMPONENTES</h1> <!-- Hace un titulo en negrita "h1 hasta el h6 " -->
+
+<b>venta de componentes y accesorios tecnologicos:</b>  <!-- esto "b" puedes hacer un parrafo en negrita-->
+<h6></h6>Se venden componentes de todo tipo
+<p>pedro juega con su germa</p> <!-- esta "p" sirve para hacer un parrafo y se  puede repetir son parrafos pequeños -->
+
+<p>pedro se coge a su germa</p>
+
+<p>pedro embaraza a su germa</p>
+
+<ol>              <!--con "ol" creas una lista ordenada y abajo añade el "li asi sucesivamente -->
+<li>Cibertec</li>
+<li>Idat</li>
+<li>Senati</li>
+<li>Certus</li>
+<li>Sise</li>
+</ol>
+<br>
+<hr>
+<br>
+
+
+<ul>              <!--con "ul" crea una lista con viñetas osea un punto negro y tbm debes poner "li"-->
+<li>Cibertec</li>
+<li>Idat</li>
+<li>Senati</li>
+<li>Certus</li>
+<li>Sise</li>
+</ul>
+
+<dl>                   <!--primero pon "dl" y abajo "dt" osea el titulo y abajo "dd" esto hace que escriba como un ejemplo abajito-->
+  <dt>Programacion</dt>
+  <dd>es un conjuto de codigos que al compilar hace una funcion</dd>
+</dl>
+
+<h1><em>QUIERO DEDICARME A LA CIBERSEGURIDAD</em></h1>      <!--si escribes un texto dentro de "h1" todo es negrita y letra recta pero si escribres algo de "em" la letra se pone chueca--> 
+<h1>QUIERO <em>DEDICARME</em> A LA CIBERSEGURIDAD</h1>
+
+<hr>
+
+
+
+<p>QUIERO APRENDER A USAR LINUX</p> <!--si escribes un texto dentro de "p" todo es un parrafo  pero si escribres algo de "em" la letra se pone negrita-->
+<p>QUIERO <strong>APRENDER</strong> A USAR LINUX</p>
+
+
+<a href="https://elblogdelnarco.com/2014/08/11/lista-de-videos-de-ejecuciones-interrogatorios-y-balaceras/">Blog Del Narco</a>  <!-- con "a dentro de las comillas pones el link https y al final hay una flecha >< hay pones el nombre esto te manda a una pagina dentro de tu misma pagina creada no recomendado "-->
+<br>
+<br>
+<br>
+
+<a href="http://elblogdelnarco.com/2014/08/11/lista-de-videos-de-ejecuciones-interrogatorios-y-balaceras/" target="_blank" rel="noopener noreferrer">Blog Del Narco</a> 
+<!-- con el comando """""_blank""""" dentro de las comillas del ""http://"" pones el link al costadito y al final hay una flecha >< hay pones el nombre esto te manda a otra venta 100% recomendado"-->
+<br>
+<br>
+<div style="color: red; font-size: 20px;">Quiero aprender tecnicas de hacking etico</div> <!--esto sirve para poner textos con color de letra y tamaño "font-size px" -->
+<br>
+<br>
+
+<div style="color: blueviolet; font-size: 50px;">Ataque de Denegacion de Servicio</div>
+ <br>
+ <br>
+
+<div style="color: forestgreen; font-size:70px;">Phishing</div>"
+
+
+<body style="background-color: rgba(143, 153, 156, 0.733);"> <!--con el comando background pones fondo de color la ventana-->
+  <h1 style="color: chocolate;text-align: center;"> <!--tbm pones esto pra el color color y el otro es text-align: derecha,izquierda,etc -->
+    FR13NDS
+ 
+  </h1>
+  
+</body>
+<body>
+  
+
+<h1 style="color:seagreen;text-align: center;">¿Que es un exploit?</h1> <!--esto es para hacer un parrafo centrado hay esta su funcion center  -->
+<p style="text-align: justify;">
+  Un exploit es un software, un fragmento de datos o una secuencia de comandos que aprovecha un error o una vulnerabilidad de una aplicación o sistema para provocar un comportamiento involuntario o imprevisto.
+</body>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
