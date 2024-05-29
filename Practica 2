@@ -1,0 +1,59 @@
+<h1>Pedro Suarez</h1>  <!--esto es un encabezado-->
+<hr>
+<p>Que tal como estas</p>
+<br>
+<br>
+<p>Cibertec</p>
+<br>
+<br>
+<br>
+<br>
+
+<h2>Cibertec</h2>
+<h3>Cibertec</h3>
+<h4>Cibertec</h4>
+<h5>Cibertec</h5>
+<h6>Cibertec</h6>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
+<body>
+    <body style="background-color: rgba(207, 141, 169, 0.733);"></body>
+    <h1 style="color: blue ;text-align: center;font-size: 60px;">Pedro Suarez</h1>
+    <h5>"El Flaco"</h5>
+    <hr>
+</body>
+<p>Padecía de parálisis bulbar, una enfermedad neurológica degenerativa que afecta los nervios que controlan los músculos de la masticación, la deglución y el habla. <p> </p>Pedro Suárez-Vértiz, que falleció este jueves a los 54 años de un paro cardiaco, pasó a integrar la lista cruel de los cantantes que se quedan sin voz</p>
+<br>
+<br>
+<br>
+
+<p>Hola <em>profesor buenas noches</em></p>
+<ol>
+    <li>Te siento solo pensar</li>
+    <li>Tu auto era una rana</li>
+    <li>Vino y una cerveza</li>
+</ol>
+
+<ul>
+    <li>Te siento solo pensar</li>
+    <li>Tu auto era una rana</li>
+    <li>Vino y una cerveza</li>
+</ul>
+
+<hr> <!--esto es para poner imagen-->
+<img src="imagen.jpg" width="100%" height="100%">
+<br>
+<br>
+<hr>
+<body> <!--aqui esta para dejar el linj y me mande a otra pagina-->
+    <a href="http://es.wikipedia.org/wiki/Pedro_Su%C3%A1rez-V%C3%A9rtiz" 
+target="_blank"  rel="noopener noreferrer">Pedro Suarez Vertiz</a> 
+</body>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-l5XSxkjJDE?si=8reWYZiEkctTPwId" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
